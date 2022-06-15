@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This related resource section lists the external links which are useful
+  for course understanding.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: f8b144cf-54af-9cab-9714-5e3892ebc18e
 ---
