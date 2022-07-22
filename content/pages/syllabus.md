@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information about the textbooks, course
+  objectives, evaluation, daily grades, exams and quizzes, writing assignments and
+  attendance policy for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f6cb2092-2b6e-4ff9-4a16-83329d9fe978
 ---

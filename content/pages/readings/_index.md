@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The reading section lists the suggested readings as per the sessions
+  covered in the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 25866a1a-6bc9-6f94-4e83-050a5a373c36
 ---
@@ -55,7 +60,7 @@ _Session 3: 七日（月）_
   
 27A CC2  
 Drills G-I  
-[Assignment 27A (1-7)]({{< baseurl >}}/pages/readings/27a_1_7)
+{{% resource_link 64efd694-5b50-3245-8987-19b362e9ecd9 "Assignment 27A (1-7)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Session 4: 九日（水）_  
@@ -67,7 +72,7 @@ Drills J-M
 _Session 5: 十一日（金）_  
   
 27A Application Exercises  
-[Assignment 27A (8-16)]({{< baseurl >}}/pages/readings/27a_8_16)
+{{% resource_link 743b5d8e-4d75-0fcb-188c-3e5a9eeb131e "Assignment 27A (8-16)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +97,7 @@ _Session 8: 十八日（金）_
   
 27B CC3  
 Drills K-N  
-[Assignment 27B (1-6)]({{< baseurl >}}/pages/readings/27b_1_6)
+{{% resource_link 612cec8d-0ef3-caf5-adfe-c1c42be1e332 "Assignment 27B (1-6)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +109,7 @@ Drills K-N
 _Session 9: 二十二日（火） 月曜日のスケジュル  
   
 _27B Application Exercises  
-[Assignment 27B (7-13)]({{< baseurl >}}/pages/readings/27b_7_13)
+{{% resource_link 8af51c9d-c324-c116-af05-d67e9a9cf1e4 "Assignment 27B (7-13)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Session 10: 二十三日（月）  
@@ -130,13 +135,13 @@ _Session 12: 二月二十八日（月）
   
 _28A CC 3  
 Drills I-L  
-[Assignment 28A (1-9)]({{< baseurl >}}/pages/readings/28a_1_9)
+{{% resource_link 1173ef2c-f6e5-d9bc-1009-979ea4251da5 "Assignment 28A (1-9)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Session 13: 三月二日（水）  
   
 _28A Application Exercises  
-[Assignment 28A (10-16)]({{< baseurl >}}/pages/readings/28a_10_16)
+{{% resource_link 73bb1b55-e3ce-33f3-4a25-4171ac0512ee "Assignment 28A (10-16)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Session 14: 三月二日（水）  
@@ -162,7 +167,7 @@ _Session 16: 九日（水）
   
 _28B CC3  
 Drills I-L  
-[Assignment 28B (1-4)]({{< baseurl >}}/pages/readings/28b_1_4)
+{{% resource_link 6116598b-0673-31f6-d99b-e886779695c8 "Assignment 28B (1-4)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Session 17: 十一日（金）_
@@ -177,7 +182,7 @@ _Session 17: 十一日（金）_
 _Session 18: 十四日（月）  
   
 _28B Application Exercises  
-[Assignment 28B]({{< baseurl >}}/pages/readings/28b)  
+{{% resource_link cb212b79-e49b-5717-ba26-5b94be1d29e1 "Assignment 28B" %}}  
   
 十五日（水） Interview Test after this session
 {{< tdclose >}}
@@ -210,7 +215,7 @@ Drills I-L
 _Session 22: 三十日（水）  
   
 _29A Application Exercises  
-[Assignment 29A]({{< baseurl >}}/pages/readings/29a)
+{{% resource_link 239c1a4f-93c6-75b1-41b4-61fd474a581a "Assignment 29A" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Session 23: 一日（金）  
@@ -236,7 +241,7 @@ _Session 25: 六日（水）
 _29B Application Exercises  
 Drills I-M  
 漢字クイズ (29A)  
-[Assignment 29A]({{< baseurl >}}/pages/readings/29a)
+{{% resource_link 239c1a4f-93c6-75b1-41b4-61fd474a581a "Assignment 29A" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Session 26: 八日（金）  
@@ -261,7 +266,7 @@ _Session 28: 十三日（水）
   
 _30A CC3  
 Drills K-M  
-[Assignment 29B]({{< baseurl >}}/pages/readings/29b)
+{{% resource_link 6b02bd2c-e0f9-6f0e-a1e4-c36b4e8b4427 "Assignment 29B" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _Session 29: 十五日（金）  
@@ -290,7 +295,7 @@ _Session 31: 二十二日（金）
   
 _30B CC2  
 Drills C-G  
-[Assignment (30A)]({{< baseurl >}}/pages/readings/30a)
+{{% resource_link 06d7a3d7-a680-d562-3ab2-73e9a8cb63d8 "Assignment (30A)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

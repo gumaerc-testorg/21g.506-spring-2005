@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes 4 homework assignments/problem sets for this course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 23048ea7-dc7f-2b27-c870-329c2a067e77
 ---
@@ -71,7 +75,7 @@ _Session 5: 十一日（金）
 _  
 27A Application Exercises  
 読み物 27A (8-16)  
-宿題 1 提出 ([PDF]({{< baseurl >}}/resources/mit21g_506s05_506hw1))
+宿題 1 提出 ({{% resource_link 1598fdd3-c922-c10e-9926-065930167d34 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +113,7 @@ _Session 9: 二十二日（火） 月曜日のスケジュル
 _  
 27B Application Exercises  
 読み物 27B (7-13)  
-宿題 2 提出 ([PDF]({{< baseurl >}}/resources/mit21g_506s05_506hw2))
+宿題 2 提出 ({{% resource_link 295bc2e4-210a-a060-9ff6-32f9e5572aa8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 _Session 10: 二十三日（月）_  
@@ -183,7 +187,7 @@ _Session 18: 十四日（月）
 _  
 28B Application Exercises  
 読み物 28B  
-宿題 3 提出 ([PDF]({{< baseurl >}}/resources/mit21g_506s05_506hw3))  
+宿題 3 提出 ({{% resource_link 5f56319c-3d82-e9b0-cb6a-ee004655dec4 "PDF" %}})  
 _  
 十五日（水）_ Interview Test after this session
 {{< tdclose >}}
@@ -261,7 +265,7 @@ _Session 27: 十一日（月）
 _  
 30A CC2  
 Drills H-J  
-宿題 ４ 提出 ([PDF]({{< baseurl >}}/resources/mit21g_506s05_506hw4))
+宿題 ４ 提出 ({{% resource_link 204f1b07-944b-e712-d697-9fd067c8f8ca "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 _Session 28: 十三日（水）  
